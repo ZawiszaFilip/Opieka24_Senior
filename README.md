@@ -39,7 +39,7 @@ Po przejściu do panelu głównego użytkownik może:
 - **Język:** Kotlin
 - **Środowisko:** Android Studio
 - **Zarządzanie projektem:** Gradle
-- **Minimalna wersja Androida:** *dopasuj do projektu*
+- **Minimalna wersja Androida:** 7
 - Struktura repozytorium gotowa do uruchomienia w Android Studio.
 
 ## 📥 Instalacja i uruchomienie
