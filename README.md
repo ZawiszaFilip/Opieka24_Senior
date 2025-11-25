@@ -46,7 +46,7 @@ Po przejściu do panelu głównego użytkownik może:
 
 1. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/ZawiszaFilip/Opieka24_Senior
+   git clone https://github.com/ZawiszaFilip/Opieka24_Senior.git
    ```
 2. Otwórz projekt w Android Studio
 3. Poczekaj na synchronizację Gradle
