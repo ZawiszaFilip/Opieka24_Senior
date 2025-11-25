@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "337066910490",
+    "project_id": "republikahh",
+    "storage_bucket": "republikahh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337066910490:android:e7d01f2f8d6da45af942a3",
+        "android_client_info": {
+          "package_name": "com.example.hackheroes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsIL8uLxlCbww16YL3fogIqB0Zf-XcbUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337066910490:android:145fced0cf060e4bf942a3",
+        "android_client_info": {
+          "package_name": "szymczak.dominik.kurs_android.prototyp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsIL8uLxlCbww16YL3fogIqB0Zf-XcbUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
