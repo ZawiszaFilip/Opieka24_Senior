@@ -52,7 +52,3 @@ Po przejściu do panelu głównego użytkownik może:
 3. Poczekaj na synchronizację Gradle
 4. Uruchom aplikację na emulatorze lub urządzeniu fizycznym
 
-## 🤲 Wsparcie i rozwój
-
-Masz pomysł na rozwój projektu?
-Problemy, błędy lub nowe funkcjonalności możesz zgłaszać przez Issues lub Pull Requesty.
